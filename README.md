@@ -3,7 +3,7 @@ This project is a relational database design and implementation for NOVA, a nati
 
 I created a normalized, efficient, and consistent schema that supports real-world constraints and business logic for drug sales, prescriptions, and contractual agreements.
 
-Technologies Used:
+Technologies Used:  
 -Oracle SQL/PL/SQL  
 -SQL Developer  
 -ER Diagram tools (Lucidchart)   
